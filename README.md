@@ -4,7 +4,7 @@
   </h1>
   
   <p align="center">
-    Me chamo Rafael Augusto, tenho 19 anos e atualmente estou cursando Tecnologia em Sistemas para Internet no IFRN.
+    Me chamo Rafael Augusto, tenho 20 anos e atualmente estou cursando Tecnologia em Sistemas para Internet no IFRN.
   </p>
 </div>
 
